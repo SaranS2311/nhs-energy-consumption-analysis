@@ -47,7 +47,7 @@ Hospitals consume large amounts of energy, leading to high operational costs and
 ---
 
 ## 📅 Project Timeline
-![Group Gantt Chart](reports/group-gantt-chart.png)
+![Group Gantt Chart](reports/group_gantt-chart.png)
 
 The Gantt chart represents task allocation and project scheduling.
 
