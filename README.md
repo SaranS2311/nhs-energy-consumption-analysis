@@ -42,7 +42,7 @@ Hospitals consume large amounts of energy, leading to high operational costs and
 
 ### 📂 Supporting Documents
 - [Project Structure](supporting_documents/project-structure.pdf)  
-- [Group Code of Conduct](supporting_documents/group-code-of-conduct.docx)
+- [Group Code of Conduct](supporting_documents/group-code-of-conduct.pdf)
 
 ---
 
