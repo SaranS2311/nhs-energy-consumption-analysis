@@ -31,23 +31,23 @@ Hospitals consume large amounts of energy, leading to high operational costs and
 ## 📁 Project Files
 
 ### 📊 Data
-- [Dataset](data/nhs-energy-dataset.xlsx)
+- [Dataset](data/nhs-energy-dataset.xls)
 
 ### 📄 Reports
-- [Final Report](reports/nhs-energy-analysis-group_project-report.pdf)
+- [Final Report](reports/nhs-energy-analysis-report.pdf)
 
 ### 📽 Presentation
 - [Slides](presentation/nhs-energy-presentation.pptx)  
 - Video Presentation: ([(https://swanseauniversity-my.sharepoint.com/:v:/r/personal/2378726_swansea_ac_uk/Documents/Swansea%20Modules/Business%20Project/Done/BA%2013%20MN-D019%20Project%20Presentation%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J1dxpp)])
 
 ### 📂 Supporting Documents
-- [Project Structure](docs/project-structure.docx)  
+- [Project Structure](Supporting_Documents/docs/project-structure.docx)  
 - [Group Code of Conduct](docs/group-code-of-conduct.pdf)
 
 ---
 
 ## 📅 Project Timeline
-![Group Gantt Chart](images/group-gantt-chart.png)
+![Group Gantt Chart](reports/group-gantt-chart.png)
 
 The Gantt chart represents task allocation and project scheduling.
 
