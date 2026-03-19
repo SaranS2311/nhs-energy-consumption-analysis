@@ -38,7 +38,7 @@ Hospitals consume large amounts of energy, leading to high operational costs and
 
 ### 📽 Presentation
 - [Slides](presentation/nhs-energy-presentation.pptx)  
-- Video Presentation: ([(https://swanseauniversity-my.sharepoint.com/:v:/r/personal/2378726_swansea_ac_uk/Documents/Swansea%20Modules/Business%20Project/Done/BA%2013%20MN-D019%20Project%20Presentation%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J1dxpp)])
+- Video Presentation: [https://swanseauniversity-my.sharepoint.com/:v:/r/personal/2378726_swansea_ac_uk/Documents/Swansea%20Modules/Business%20Project/Done/BA%2013%20MN-D019%20Project%20Presentation%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J1dxpp]
 
 ### 📂 Supporting Documents
 - [Project Structure](supporting_documents/project-structure.pdf)  
