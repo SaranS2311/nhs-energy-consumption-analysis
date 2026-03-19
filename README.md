@@ -31,7 +31,7 @@ Hospitals consume large amounts of energy, leading to high operational costs and
 ## 📁 Project Files
 
 ### 📊 Data
-- [Dataset](data/nhs-energy-dataset.xls)
+- [Dataset](dataset/nhs-energy-dataset.xls)
 
 ### 📄 Reports
 - [Final Report](reports/nhs-energy-analysis-report.pdf)
