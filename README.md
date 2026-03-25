@@ -1,6 +1,6 @@
 # Energy Consumption Data Analysis for NHS  
 ### A Tool for Cost Saving (Group Project)
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](#copyright--usage-notice)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](#copyright)
 ---
 
 ## 📌 Project Overview
@@ -86,7 +86,8 @@ This project provides a structured and data-driven approach to reducing energy c
 ---
 
 
-## Copyright and Usage Notice
+<a name="copyright"></a>
+## ⚠️ Copyright & Usage Notice
 
 This project was developed as part of an academic group assignment at  
 **Swansea University** (2026).
