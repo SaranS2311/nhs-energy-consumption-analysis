@@ -84,3 +84,17 @@ The Gantt chart represents task allocation and project scheduling.
 This project provides a structured and data-driven approach to reducing energy costs and improving sustainability in NHS facilities.
 
 ---
+
+
+## ⚠️ Copyright & Usage Notice
+
+This project was developed as part of an academic group assignment at  
+**Swansea University** (2026).
+
+© 2026 Raksha, Krishna, Sudharshan, Saran, Joyston, Abdul & Shashank · Swansea University
+
+This repository is shared for **portfolio and educational viewing purposes only**.  
+No part of this project, including data, reports, or analysis, may be reproduced,  
+distributed, or used commercially without permission from the authors and the university.
+
+> 📧 For permissions or enquiries, contact any of the contributors via GitHub.
