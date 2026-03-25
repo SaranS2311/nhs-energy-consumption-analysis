@@ -86,7 +86,7 @@ This project provides a structured and data-driven approach to reducing energy c
 ---
 
 
-## ⚠️ Copyright & Usage Notice
+## Copyright and Usage Notice
 
 This project was developed as part of an academic group assignment at  
 **Swansea University** (2026).
